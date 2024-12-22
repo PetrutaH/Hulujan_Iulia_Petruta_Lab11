@@ -13,6 +13,7 @@ namespace Hulujan_Iulia_Petruta_Lab11.Data
     //{
     //}
 
+
     public interface IRestService
     {
         Task<List<ShopList>> RefreshDataAsync();
